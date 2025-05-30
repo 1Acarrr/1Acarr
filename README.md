@@ -9,7 +9,7 @@
 - 🔧 ASP.NET MVC ile web geliştirme üzerine projeler geliştiriyorum.  
 - 💻 Visual Studio + MS SQL Server kullanarak backend geliştiriyorum.  
 - 💡 Öğrenmeye açık, ekip çalışmasına uyumlu ve freelance projelere istekliyim.  
-- 📫 Bana ulaşmak istersen: [mail adresini buraya yaz]
+- 📫 Bana ulaşmak istersen: [isacar7221@gmail.com]
 
 ---
 
