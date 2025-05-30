@@ -1,6 +1,6 @@
 # 1Acarr
 💼 Bilgisayar Mühendisliği öğrencisi için portföy alanı | Öğrendiğim projeleri burada paylaşıyorum
-<h1 align="center">Merhaba 👋, Ben Acar</h1>
+<h1 align="center">Merhaba 👋, Ben İsa Acar</h1>
 <h3 align="center">Bilgisayar Mühendisliği Öğrencisi | ASP.NET Developer Adayı</h3>
 
 ---
